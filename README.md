@@ -2,7 +2,7 @@
 .
  🔭 I’m currently studying Computer Sciences at Zealnd Business Acadamy, 4th semester
  
- 🌱 I’m learned so far mobile app, IT Security, Microsoft SQL Server Databses, C#, Web Services, HTML, CSS, Typescript, Python, MS SQL Server Databases, Design Scrum and XP
+ 🌱 I have learned so far mobile app, IT Security, Microsoft SQL Server Databses, C#, Web Services, HTML, CSS, Typescript, Python, MS SQL Server Databases, Design Scrum and XP
  
  📫 How to reach me: raniazarka@hotmail.com
  
