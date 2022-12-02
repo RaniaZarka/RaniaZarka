@@ -1,8 +1,6 @@
 ### Hi there!👋  
 
 I’m a Web Development student at Zealand Business Academy.
-Currently, I am learning React.js and Php. 
-I’m looking for an internship in one of these 2 fields.
 I graduated from Computer Science on January 2022
  📫 How to reach me: raniazarka@hotmail.com, linkedin.com/in/raniazarka
  
