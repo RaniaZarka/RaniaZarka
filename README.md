@@ -1,7 +1,7 @@
 ### Hi there!👋  
 
-I’m a Web Development graduated on June 2023.
-I graduated from Computer Science on January 2022
+I’m a Web Developer, graduated on June 2023.
+I also graduated from Computer Science on January 2022
  📫 How to reach me: raniazarka@hotmail.com, linkedin.com/in/raniazarka
  
 <!--
