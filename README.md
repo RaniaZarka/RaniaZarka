@@ -3,7 +3,7 @@
 I’m a Web Developer, graduated on June 2023.
 I also graduated from Computer Science on January 2022
 
- 📫 How to reach me: raniazarka@hotmail.com, linkedin.com/in/raniazarka
+ 📫 How to reach me: raniazarka@gmail.com, linkedin.com/in/raniazarka
  
 <!--
 **RaniaZarka/RaniaZarka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
